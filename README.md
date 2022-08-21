@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Distributed Systems design, Full stack, Mobile app dev**
+- 💬 Ask me about **Distributed Systems, Full stack, Mobile app dev**
 
 - 📫 How to reach me **androelam@gmail.com**
 
